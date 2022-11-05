@@ -13,3 +13,4 @@ Simple project to track chosen economic data.
 [https://www.assetmacro.com/](https://www.assetmacro.com/)<br>
 [https://www.kaggle.com/code/bong0506/metals-prices-within-last-30-years/data](Metals prices within last 30 years on Kaggle) <br>
 [https://archive.ics.uci.edu/ml/datasets.php](UCL Datasets)
+[https://www.investing.com/commodities/aluminum-historical-data](https://www.investing.com/commodities/aluminum-historical-data) problem with time period specification <br>
